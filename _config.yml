@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "샵온"
+title                    : "바이어킷"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "shopon"
-description              : "좋은 상품정보"
-url                      : "https://mmistakes.github.io"
+name                     : "buyerkit"
+description              : "구매 가이드의 모든 것"
+url                      : "https://buyerkit.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "샵온"
+  name             : "바이어키트"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "상품의 상세정보 및 리뷰를보고 구매하세요"
+  bio              : "소비자를 위한 완벽한 구매 키트! 제품 리뷰와 체험 콘텐츠로 당신의 선택을 도와드립니다."
   location         : "Somewhere"
   email            :
   links:
