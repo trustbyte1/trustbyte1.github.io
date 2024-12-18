@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "바이어킷"
+title                    : "트러스트바이트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "buyerkit"
-description              : "구매 가이드의 모든 것"
-url                      : "https://buyerkit.github.io"
+name                     : "trustbyte1"
+description              : "믿을 수 있는 리뷰 한입"
+url                      : "https://trustbyte1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  : "51b3d2328f34bda459e1d09df4ef95c66a7cd476"
+naver_site_verification  : "f31d0cd4b7dba2553737e4d93f9e7258ec904dcc"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "바이어키트"
+  name             : "신뢰바이트"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "소비자를 위한 완벽한 구매 키트! 제품 리뷰와 체험 콘텐츠로 당신의 선택을 도와드립니다."
+  bio              : "직접 체험한 제품만 리뷰하는 신뢰 중심의 소비자 가이드 블로그입니다."
   location         : "Somewhere"
   email            :
   links:
