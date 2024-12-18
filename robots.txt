@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://buyerkit.github.io/sitemap.xml
+Sitemap: https://trustbyte1.github.io/sitemap.xml
